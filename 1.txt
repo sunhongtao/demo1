@@ -8,3 +8,5 @@ I am in the remote host.
 The remote host master branch is very great!
 test rebase!
 test rebase 1!
+test rebase  local branch
+add one line for rebase test
