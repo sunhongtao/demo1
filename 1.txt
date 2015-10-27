@@ -10,3 +10,5 @@ test rebase!
 test rebase 1!
 test rebase  local branch
 add one line for rebase test
+test reabse local branch 1
+add second line for rebase test
