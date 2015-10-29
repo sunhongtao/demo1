@@ -2,13 +2,3 @@ hello world
 good evening,haha
 are you sure?
 perfect!
-I am in the local host.
-The local host branch is also very Great!
-I am in the remote host.
-The remote host master branch is very great!
-test rebase!
-test rebase 1!
-test rebase  local branch
-add one line for rebase test
-test reabse local branch 1
-add second line for rebase test
